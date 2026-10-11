@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+mysql-connector-python
+python-dotenv
+bcrypt
+aiohttp
